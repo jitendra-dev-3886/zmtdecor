@@ -78,7 +78,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="minimal-title">
-						<h1>A Glimpse into Our Latest <br>Bureau Ventures"</h1>
+						<h1>A Glimpse into Our Projects</h1>
 					</div>
 				</div>
 			</div>
@@ -88,10 +88,11 @@
 						<div class="portfolio_menu">
 							<ul class="menu-filtering">
 								<li class="current_menu_item" data-filter="*"> All</li>
-								<li data-filter=".physics"> Architecture </li>
-								<li data-filter=".chemistry"> Interior </li>
-								<li data-filter=".math"> Branding </li>
-								<li data-filter=".chemistry"> Building </li>
+								<li data-filter=".physics"> Interior Decoration </li>
+								<li data-filter=".chemistry"> Gypsum Partition </li>
+								<li data-filter=".math"> Tiling </li>
+								<li data-filter=".chemistry"> Painting </li>
+																								
 							</ul>
 						</div>
 					</div>
@@ -104,15 +105,15 @@
 				<div class="col-lg-4 col-md-6 grid-item physics english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-1.html" alt="">
+							<img src="{{ asset('assets/images/project/alsafa.jpg') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">AL SAFA</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html">VILLA 08</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -124,15 +125,15 @@
 				<div class="col-lg-4 col-md-6 grid-item physics chemistry math">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-2.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">AL BAYADER</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> MUDON ARABELLA</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -144,15 +145,15 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-3.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">PALM JUMEIRAH </a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA NO 33</a></h3>
 								</div>	
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -164,15 +165,15 @@
 				<div class="col-lg-4 col-md-6 grid-item math english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-4.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">AL BARARI</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA NO 10</a></h3>
 								</div>	
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -184,15 +185,15 @@
 				<div class="col-lg-4 col-md-6 grid-item math physics">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-5.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">AL SUFOUH JUMERAH</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA NO 45</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -204,15 +205,15 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry physics">
 					<div class="case-study-single-box wow fadeInUp ">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-6.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">MUDON ARABELLA </a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA NO 224</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -224,15 +225,15 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-7.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">J V C </a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA NO 20</a></h3>
 								</div>	
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -244,15 +245,15 @@
 				<div class="col-lg-4 col-md-6 grid-item math physics">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-8.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">DFC ARABIAN</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> VILLA 12</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>
@@ -264,15 +265,15 @@
 				<div class="col-lg-4 col-md-6 grid-item physics chemistry math">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="assets/images/portfolio/minimal-9.html" alt="">
+							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
 								<div class="case-title style2">
-									<span><a href="portfolio-details.html">MINIMALIST</a></span>
+									<span><a href="portfolio-details.html">KOA CANVAS WADI</a></span>
 								</div>
 								<div class="case-study-title style2">
-									<h3> <a href="portfolio-details.html"> Minimal design</a></h3>
+									<h3> <a href="portfolio-details.html"> AL SAFA 3</a></h3>
 								</div>
 								<div class="case-study-icon">
 									<i class="bi bi-arrow-right"></i>

@@ -25,7 +25,7 @@
 										<h1>Build Your <span>Vision</span> <br> Creating Reality <br> New Design</h1>
 									</div>
 									<div class="slider-button">
-										<a href="service-details.html">View Details </a>
+										<a href="#">View Details </a>
 									</div>
 								</div>
 								<div class="slider-number">
@@ -69,7 +69,7 @@
 										<h1>Build Your <span>Vision</span> <br> Creating Reality <br> New Design</h1>
 									</div>
 									<div class="slider-button">
-										<a href="service-details.html">View Details </a>
+										<a href="#">View Details </a>
 									</div>
 								</div>
 								<div class="slider-number">
@@ -110,11 +110,11 @@
 					<div class="single-feature-box wow fadeInLeft">
 						<div class="feature-content">
 							<h4>01</h4>
-							<h3>Architecture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>Interior Decoration</h3>
+							<p>Transform spaces with interior decoration that blends design, color, texture, and lighting to create functional, stylish, and visually appealing environments.</p>
 						</div>
 						<div class="feature-button">
-							<a href="service-details.html">View Details</a>
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -122,11 +122,11 @@
 					<div class="single-feature-box wow fadeInUp">
 						<div class="feature-content">
 							<h4>02</h4>
-							<h3>Interior Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>Gypsum</h3>
+							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
 						</div>
 						<div class="feature-button">
-							<a href="service-details.html">View Details</a>
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -134,11 +134,47 @@
 					<div class="single-feature-box wow fadeInRight">
 						<div class="feature-content">
 							<h4>03</h4>
-							<h3>Furniture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>Tiling</h3>
+							<p>Enhance spaces with precision-installed tiling that offers durability, easy maintenance, and a clean, modern aesthetic finish.</p>
 						</div>
 						<div class="feature-button">
-							<a href="service-details.html">View Details</a>
+							<a href="#">View Details</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-feature-box wow fadeInRight">
+						<div class="feature-content">
+							<h4>04</h4>
+							<h3>Marble</h3>
+							<p>Elevate interiors with premium marble surfaces that bring natural elegance, durability, and a timeless luxurious finish to any space.</p>
+						</div>
+						<div class="feature-button">
+							<a href="#">View Details</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-feature-box wow fadeInRight">
+						<div class="feature-content">
+							<h4>05</h4>
+							<h3>Painting</h3>
+							<p>Deliver flawless, premium wall finishes with high-quality painting that enhances color depth, smoothness, and overall interior elegance.</p>
+						</div>
+						<div class="feature-button">
+							<a href="#">View Details</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="single-feature-box wow fadeInRight">
+						<div class="feature-content">
+							<h4>06</h4>
+							<h3>False Ceiling</h3>
+							<p>Enhance interiors with a sleek false ceiling that improves lighting, hides utilities, and delivers a modern, premium architectural finish.</p>
+						</div>
+						<div class="feature-button">
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -148,74 +184,56 @@
 
 	<div class="tag-area one upper">
 		<div class="container-fluid">
-            <div class="marquee">
+            <div class="marquee ">
 				<div class="marquee-block"> 
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>GLASS ALUMINIUM</span></h6>
+						<h6 class="title"><span>Interior Decoration</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>JOINERY WORK</span></h6>
+						<h6 class="title"><span>Gypsum</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span> STEEL WORK </span></h6>
+						<h6 class="title"><span> Tiling</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>UPHOLSTERY WORK</span></h6>
+						<h6 class="title"><span>Marble</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>INTERIOR FITOUT</span></h6>
+						<h6 class="title"><span>Painting</span></h6>
 					</div>				
 					<div class="content-box">
-						<h6 class="title"><span>BUILDING</span></h6>
+						<h6 class="title"><span>False Ceiling</span></h6>
 					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>INTERIOR DESIGN</span></h6>
-					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>CONSTRUCTION</span></h6>
-					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>LUXURY HOME</span></h6>
-					</div>
 				</div>
 				<div class="marquee-block"> 
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>INTERIOR DESIGN</span></h6>
+						<h6 class="title"><span>Interior Decoration</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>CONSTRUCTION</span></h6>
+						<h6 class="title"><span>Gypsum</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>FURNITURES</span></h6>
+						<h6 class="title"><span> Tiling</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>LUXURY HOME</span>&gt;</h6>
+						<h6 class="title"><span>Marble</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span>ARCHITECTURE</span></h6>
+						<h6 class="title"><span>Painting</span></h6>
 					</div>				
 					<div class="content-box">
-						<h6 class="title"><span>BUILDING</span></h6>
+						<h6 class="title"><span>False Ceiling</span></h6>
 					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>INTERIOR DESIGN</span></h6>
-					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>CONSTRUCTION</span></h6>
-					</div>				
-					<div class="content-box">
-						<h6 class="title"><span>LUXURY HOME</span></h6>
-					</div>
 				</div>
 		  	</div>
 		</div>
@@ -248,7 +266,7 @@
 							<img src="assets/images/about/about-one.png" alt="">
 						</div>
 						<div class="about-button">
-							<a href="service-details.html">About Us</a>
+							<a href="{{ route('about') }}">About Us</a>
 						</div>
 					</div>
 				</div>
@@ -267,26 +285,22 @@
 									<!-- / tabs_item -->
 									<div class="tabs_item">
 										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
-										<div class="tab-thumb">
+										 <div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
+										<div class="post-comment-description">
+											<p>ZMT TECHNICAL SERVICES L.L.C. is a leading UAE waterproofing organization established in the early 1990s, offering a wide range of technologically advanced, method-driven, and high-quality services, supported by modern computerized design and state-of-the-art engineering facilities to ensure complete commercial and technical excellence with strong customer satisfaction.</p>
 										</div>
 										<div class="prossess-ber-plugin pt-20">
-											<span class="prosses-bar">Architecture</span>
-											<div id="bar1" class="barfiller">
+											<span class="prosses-bar">Interior Decoration</span>
+											<div id="bar-history-1" class="barfiller">
 												<div class="tipWrap">
 													<span class="tip"></span>
 												</div>
 												<span class="fill" data-percentage="80"></span>
 											</div>
-											<span class="prosses-bar">Interior Design</span>
-											<div id="bar2" class="barfiller">
+											<span class="prosses-bar">Gypsum</span>
+											<div id="bar-history-2" class="barfiller">
 												<div class="tipWrap">
 													<span class="tip"></span>
 												</div>
@@ -296,36 +310,52 @@
 									</div> 
 									<!-- / tabs_item -->
 									<div class="tabs_item">
-										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
 										<div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
-										</div>
 										<div class="post-comment-description pt-3">
-											<p>Mission evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically the best design of dreamit simplify discover.</p>
+											<p>The mission of ZMT TECHNICAL SERVICES L.L.C. is to uphold its reputation for integrity, excellence, experience, and leadership by incorporating advanced technologies and industry techniques to deliver innovative solutions, continuously improving work quality to exceed client expectations, maintaining the highest moral principles, and providing a safe, secure, and challenging environment that supports the personal and professional growth of its people.</p>
+										</div>
+										<div class="prossess-ber-plugin2 pt-20">
+											<span class="prosses-bar">Painting</span>
+											<div id="bar-mission-1" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill" data-percentage="80"></span>
+											</div>
+											<span class="prosses-bar">Marble</span>
+											<div id="bar-mission-2" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill my-class" data-percentage="70"></span>
+											</div>
 										</div>
 									</div> 
 									<!-- / tabs_item -->
 									<div class="tabs_item">
-										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
 										<div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
-										</div>
 										<div class="post-comment-description pt-3">
-											<p>Vision evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically the best design of dreamit simplify discover.</p>
+											<p>The vision of ZMT TECHNICAL SERVICES L.L.C. is to be a globally trusted leader in delivering innovative and sustainable waterproofing and construction solutions, recognized for technical excellence, uncompromising quality, and ethical practices, while continuously setting new industry benchmarks and creating long-term value for clients, employees, and society.</p>
+										</div>
+										<div class="prossess-ber-plugin1 pt-20">
+											<span class="prosses-bar">False Ceiling</span>
+											<div id="bar-vision-1" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill" data-percentage="80"></span>
+											</div>
+											<span class="prosses-bar">Tiling</span>
+											<div id="bar-vision-2" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill my-class" data-percentage="70"></span>
+											</div>
 										</div>
 									</div> 
 								</div> <!-- / tab_content -->
@@ -451,7 +481,7 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-button">
-											<a href="service-details.html">View Details</a>
+											<a href="#">View Details</a>
 										</div>
 									</div>
 								</div>
@@ -493,7 +523,7 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-button">
-											<a href="service-details.html">View Details</a>
+											<a href="#">View Details</a>
 										</div>
 									</div>
 								</div>
@@ -535,7 +565,7 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-button">
-											<a href="service-details.html">View Details</a>
+											<a href="#">View Details</a>
 										</div>
 									</div>
 								</div>
@@ -577,7 +607,7 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
@@ -609,7 +639,7 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
@@ -623,7 +653,7 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
@@ -637,7 +667,7 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
@@ -651,7 +681,7 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="#portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
@@ -665,13 +695,13 @@
 							<h4>ARCHITECTURE</h4>
 							<h3>Luxury Modern <br> Building Sandigo <br> UAE</h3>
 							<div class="project-button">
-								<a href="portfolio.html">View Details</a>
+								<a href="#">View Details</a>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="projects-btn">
-					<a href="portfolio.html">Load More</a>
+					<a href="#">Load More</a>
 				</div>
 			</div>
 		</div>
@@ -886,10 +916,10 @@
 						</div>
 						<div class="blog-title">
 							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Top 10 Modern Building Design in Califronia, UAE</a></h3>
+							<h3><a href="#">Top 10 Modern Building Design in Califronia, UAE</a></h3>
 						</div>
 						<div class="blog-button">
-							<a href="blog-details.html">View Details</a>
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -900,10 +930,10 @@
 						</div>
 						<div class="blog-title">
 							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Best Equipment for Architecture and Interior Design</a></h3>
+							<h3><a href="#">Best Equipment for Architecture and Interior Design</a></h3>
 						</div>
 						<div class="blog-button">
-							<a href="blog-details.html">View Details</a>
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>
@@ -914,10 +944,10 @@
 						</div>
 						<div class="blog-title">
 							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">5 Awesome and Beautiful House in Dhaka, Bangladesh</a></h3>
+							<h3><a href="#">5 Awesome and Beautiful House in Dhaka, Bangladesh</a></h3>
 						</div>
 						<div class="blog-button">
-							<a href="blog-details.html">View Details</a>
+							<a href="#">View Details</a>
 						</div>
 					</div>
 				</div>

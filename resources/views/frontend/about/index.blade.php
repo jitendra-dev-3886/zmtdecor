@@ -129,26 +129,22 @@
 									<!-- / tabs_item -->
 									<div class="tabs_item">
 										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
-										<div class="tab-thumb">
+										 <div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
+										<div class="post-comment-description">
+											<p>ZMT TECHNICAL SERVICES L.L.C. is a leading UAE waterproofing organization established in the early 1990s, offering a wide range of technologically advanced, method-driven, and high-quality services, supported by modern computerized design and state-of-the-art engineering facilities to ensure complete commercial and technical excellence with strong customer satisfaction.</p>
 										</div>
 										<div class="prossess-ber-plugin pt-20">
-											<span class="prosses-bar">Architecture</span>
-											<div id="bar1" class="barfiller">
+											<span class="prosses-bar">Interior Decoration</span>
+											<div id="bar-history-1" class="barfiller">
 												<div class="tipWrap">
 													<span class="tip"></span>
 												</div>
 												<span class="fill" data-percentage="80"></span>
 											</div>
-											<span class="prosses-bar">Interior Design</span>
-											<div id="bar2" class="barfiller">
+											<span class="prosses-bar">Gypsum</span>
+											<div id="bar-history-2" class="barfiller">
 												<div class="tipWrap">
 													<span class="tip"></span>
 												</div>
@@ -158,36 +154,52 @@
 									</div> 
 									<!-- / tabs_item -->
 									<div class="tabs_item">
-										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
 										<div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
-										</div>
 										<div class="post-comment-description pt-3">
-											<p>Mission evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically the best design of dreamit simplify discover.</p>
+											<p>The mission of ZMT TECHNICAL SERVICES L.L.C. is to uphold its reputation for integrity, excellence, experience, and leadership by incorporating advanced technologies and industry techniques to deliver innovative solutions, continuously improving work quality to exceed client expectations, maintaining the highest moral principles, and providing a safe, secure, and challenging environment that supports the personal and professional growth of its people.</p>
+										</div>
+										<div class="prossess-ber-plugin2 pt-20">
+											<span class="prosses-bar">Painting</span>
+											<div id="bar-mission-1" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill" data-percentage="80"></span>
+											</div>
+											<span class="prosses-bar">Marble</span>
+											<div id="bar-mission-2" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill my-class" data-percentage="70"></span>
+											</div>
 										</div>
 									</div> 
 									<!-- / tabs_item -->
 									<div class="tabs_item">
-										<!-- post comment -->
-										<div class="post-comment-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically simplify discover.</p>
-										</div>
 										<div class="tab-thumb">
 											<img src="assets/images/about/about-1.jpg" alt="">
 										</div>
-										<div class="tab-title">
-											<h3>Design Make Dream</h3>
-											<p>Rapidiously evolve pandemic experiences and Dramatically administrate</p>
-										</div>
 										<div class="post-comment-description pt-3">
-											<p>Mission evolve pandemic experiences and end-to-end platforms. don Dramatically administrate inexpensive users with integrated experiences Collaboratively redefine cutting-edge infrastructures whereas open main convergence energistically the best design of dreamit simplify discover.</p>
+											<p>The vision of ZMT TECHNICAL SERVICES L.L.C. is to be a globally trusted leader in delivering innovative and sustainable waterproofing and construction solutions, recognized for technical excellence, uncompromising quality, and ethical practices, while continuously setting new industry benchmarks and creating long-term value for clients, employees, and society.</p>
+										</div>
+										<div class="prossess-ber-plugin1 pt-20">
+											<span class="prosses-bar">False Ceiling</span>
+											<div id="bar-vision-1" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill" data-percentage="80"></span>
+											</div>
+											<span class="prosses-bar">Tiling</span>
+											<div id="bar-vision-2" class="barfiller">
+												<div class="tipWrap">
+													<span class="tip"></span>
+												</div>
+												<span class="fill my-class" data-percentage="70"></span>
+											</div>
 										</div>
 									</div> 
 								</div> <!-- / tab_content -->

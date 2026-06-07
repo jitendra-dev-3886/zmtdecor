@@ -586,13 +586,22 @@
 
 
         //=====< barfiller script >====
-        $('#bar1').barfiller({
+        $('#bar-history-1').barfiller({
             duration: 7000
         });
-        $('#bar2').barfiller({
+        $('#bar-history-2').barfiller({
             duration: 7000
         });
-        $('#bar3').barfiller({
+        $('#bar-mission-1').barfiller({
+            duration: 7000
+        });
+        $('#bar-mission-2').barfiller({
+            duration: 7000
+        });
+        $('#bar-vision-1').barfiller({
+            duration: 7000
+        });
+        $('#bar-vision-2').barfiller({
             duration: 7000
         });
 
@@ -608,7 +617,18 @@
             $(this).closest('li').addClass('current');
 
             tab.find('.tab_content').find('div.tabs_item').not('div.tabs_item:eq(' + index + ')').slideUp();
-            tab.find('.tab_content').find('div.tabs_item:eq(' + index + ')').slideDown();
+            tab.find('.tab_content').find('div.tabs_item:eq(' + index + ')').slideDown(function() {
+                // Re-initialize barfiller for visible bars
+                $('.tab_content .tabs_item:visible .barfiller').each(function() {
+                    var $bar = $(this);
+                    if (!$bar.data('barfiller-initialized')) {
+                        $bar.barfiller({
+                            duration: 7000
+                        });
+                        $bar.data('barfiller-initialized', true);
+                    }
+                });
+            });
 
             g.preventDefault();
         });

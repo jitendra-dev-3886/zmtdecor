@@ -36,17 +36,17 @@
 									<li><a href="{{ route('our_team') }}">Our Team</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Works </a>
-								<ul class="sub-menu">
+							<li><a href="{{ route('project') }}">Projects </a>
+								<!-- <ul class="sub-menu">
 									<li><a href="{{ route('project') }}">Project</a></li>
 									<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
-								</ul>
+								</ul> -->
 							</li>
-							<li><a href="#">Blog </a>
-								<ul class="sub-menu">
+							<li><a href="{{ route('our_blog') }}">Blog </a>
+								<!-- <ul class="sub-menu">
 									<li><a href="{{ route('our_blog') }}">Our Blog</a></li>
 									<li><a href="{{ route('blog_details') }}">Blog Details</a></li>
-								</ul>
+								</ul> -->
 							</li>
 							<li><a href="{{ route('contact') }}">Contact</a></li>
 						</ul>
@@ -73,13 +73,6 @@
 
 	<!--  Mobile Menu Area -->
 	<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
-		<div class="mobile-logo text-center mb-3">
-			<div class="logo">
-				<a class="logo_img" href="{{ route('home') }}" title="hendre">
-					<img src="{{ asset('assets/images/zmtimg.png') }}" alt="ZMT Logo" class="mobile_logo_img">
-				</a>
-			</div>
-		</div>
 		<div class="mobile-menu">
 			<nav class="hendre_menu">
 				<ul class="nav_scroll">
@@ -106,17 +99,17 @@
 							<li><a href="{{ route('our_team') }}">Our Team</a></li>
 						</ul>
 					</li>
-					<li><a href="#">Works </a>
-						<ul class="sub-menu">
+					<li><a href="{{ route('project') }}">Projects </a>
+						<!-- <ul class="sub-menu">
 							<li><a href="{{ route('project') }}">Project</a></li>
 							<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
-						</ul>
+						</ul> -->
 					</li>
-					<li><a href="#">Blog </a>
-						<ul class="sub-menu">
+					<li><a href="{{ route('our_blog') }}">Blog </a>
+						<!-- <ul class="sub-menu">
 							<li><a href="{{ route('our_blog') }}">Our Blog</a></li>
 							<li><a href="{{ route('blog_details') }}">Blog Details</a></li>
-						</ul>
+						</ul> -->
 					</li>
 					<li><a href="{{ route('contact') }}">Contact</a></li>
 				</ul>

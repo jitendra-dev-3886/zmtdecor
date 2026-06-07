@@ -29,61 +29,6 @@
 		</div>
 	</div>
 
-	<div class="feature-area one upper">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-12">
-					<div class="section-title upper">
-						<div class="main-title">
-							<h1>Services</h1>
-						</div>
-						<div class="sub-title">
-							<h2>Featured <span>Services</span></h2>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row align-items-center">
-				<div class="col-lg-4 col-md-6">
-					<div class="single-feature-box wow fadeInLeft">
-						<div class="feature-content">
-							<h4>01</h4>
-							<h3>Architecture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
-						</div>
-						<div class="feature-button">
-							<a href="#">View Details</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-feature-box wow fadeInUp">
-						<div class="feature-content">
-							<h4>02</h4>
-							<h3>Interior Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
-						</div>
-						<div class="feature-button">
-							<a href="#">View Details</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<div class="single-feature-box wow fadeInRight">
-						<div class="feature-content">
-							<h4>03</h4>
-							<h3>Furniture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
-						</div>
-						<div class="feature-button">
-							<a href="#">View Details</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="service-area-inner-page">
 		<div class="container">
 			<div class="row">
@@ -105,8 +50,8 @@
 							<img src="assets/images/service/inner-icon-1.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Architecture Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>Interior Decoration</h3>
+							<p>Transform spaces with interior decoration that blends design, color, texture, and lighting to create functional, stylish, and visually appealing environments.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -122,8 +67,8 @@
 							<img src="assets/images/service/inner-icon-2.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>3D Modelling Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>Gypsum</h3>
+							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -139,8 +84,8 @@
 							<img src="assets/images/service/inner-icon-3.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Blueprint Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>Tiling</h3>
+							<p>Enhance spaces with precision-installed tiling that offers durability, easy maintenance, and a clean, modern aesthetic finish. Seamlessly crafted for lasting elegance.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -156,8 +101,8 @@
 							<img src="assets/images/service/inner-icon-4.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Industrial Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>Marble</h3>
+							<p>Elevate interiors with premium marble surfaces that bring natural elegance, durability, and a timeless luxurious finish to any space.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -173,8 +118,8 @@
 							<img src="assets/images/service/inner-icon-5.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Interior Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>Painting</h3>
+							<p>Deliver flawless, premium wall finishes with high-quality painting that enhances color depth, and overall interior elegance.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -190,8 +135,8 @@
 							<img src="assets/images/service/inner-icon-6.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Furniture Design</h3>
-							<p>Rapidiously evolve pandemic experiences and end-to-end platforms. Dramatically administrate inexpensive</p>
+							<h3>False Ceiling</h3>
+							<p>Enhance interiors with a sleek false ceiling that improves lighting, hides utilities, and delivers a modern, premium architectural finish.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
@@ -199,21 +144,6 @@
 						<div class="inner-service-number">
 							<h1>06</h1>
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="arcke-agency-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="arcke-agency">
-						<h2>Start Your Dream <span>Projects</span> <br> with ZMT’s Agency</h2>
-					</div>
-					<div class="arcke-agency-button">
-						<a href="#">Contact Us</a>
 					</div>
 				</div>
 			</div>

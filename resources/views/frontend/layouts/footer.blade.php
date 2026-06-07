@@ -43,7 +43,7 @@
                             </a>
                         </div>
                         <div class="company-info-desc">
-                            <p> Rapidiously evolve pandemic experiences and end Dramatically administrate inexpensive </p>
+                            <p>Specialist in all kinds of Interior Decoration, Gypsum, Tiling, Marble and Painting Works Company. </p>
                         </div>
                         <div class="footer-icon-list">
                             <ul>

@@ -57,11 +57,11 @@
 					</div>
 				</div>
 			</div>
-			<div class="row mg-tp">
+			<div class="row">
 				<div class="col-lg-12">
 					<div class="service_details_box">
 						<div class="service_details_content">
-							<h3>SHAJRT AL RAYAN </h3>
+							<h3>ZMT TECHNICAL SERVICES L.L.C.</h3>
 							<p>Provides integrated and multidisciplinary services throughout the entire life cycle 
 							of any construction project, from the initial feasibility studies and concepts all the way through the 
 							various stages of the design, tendering and procurement, construction, testing and commissioning, 

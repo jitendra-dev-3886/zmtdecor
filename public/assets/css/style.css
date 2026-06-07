@@ -1069,6 +1069,7 @@ ul.social-box li a:hover {
 
 
 .breadcumb-area {
+    background: url(../assets/images/breadcumb.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -2624,6 +2625,14 @@ ul.social-box li a:hover {
 }
 
 .about-area.one.upper .prossess-ber-plugin span {
+    color: #101010;
+}
+
+.about-area.one.upper .prossess-ber-plugin1 span {
+    color: #101010;
+}
+
+.about-area.one.upper .prossess-ber-plugin2 span {
     color: #101010;
 }
 
