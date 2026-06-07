@@ -71,48 +71,31 @@
 		</div>
 	</div>
 
-	<!--  Mobile Menu Area -->
-	<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
-		<div class="mobile-menu">
-			<nav class="hendre_menu">
-				<ul class="nav_scroll">
-					<li><a href="{{ route('home') }}">Home </a>
-								 <!-- <ul class="sub-menu">
-									<li><a href="{{ route('home') }}">Home </a>
-								 <ul class="sub-menu">
-									<li><a href="left-sidebar.html">Left Sidebar</a></li>
-								</ul>  -->
-							</li>
-								</ul> 
-							</li>
-					<li><a href="{{ route('about') }}">About </a></li>
-					<li><a href="#">Services</a>
-						<ul class="sub-menu">
-							<li><a href="{{ route('our_service') }}">Our Service</a></li>
-							<li><a href="{{ route('service_details') }}">Service Details</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Pages</a>
-						<ul class="sub-menu">
-							<li><a href="{{ route('about') }}">About Us</a></li>
-							<li><a href="{{ route('pricing') }}">Pricing</a></li>
-							<li><a href="{{ route('our_team') }}">Our Team</a></li>
-						</ul>
-					</li>
-					<li><a href="{{ route('project') }}">Projects </a>
-						<!-- <ul class="sub-menu">
-							<li><a href="{{ route('project') }}">Project</a></li>
-							<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
-						</ul> -->
-					</li>
-					<li><a href="{{ route('our_blog') }}">Blog </a>
-						<!-- <ul class="sub-menu">
-							<li><a href="{{ route('our_blog') }}">Our Blog</a></li>
-							<li><a href="{{ route('blog_details') }}">Blog Details</a></li>
-						</ul> -->
-					</li>
-					<li><a href="{{ route('contact') }}">Contact</a></li>
-				</ul>
-			</nav>
-		</div>
-	</div>
+<!--  Mobile Menu Area -->
+	
+<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none">
+    <div class="container">
+        <div class="mobile-header d-flex align-items-center justify-content-between">
+            <div class="mobile-logo">
+                <a href="{{ route('home') }}">
+                    <img src="{{ asset('assets/images/zmtimg.png') }}" alt="Logo" height="100px" width="100px">
+                </a>
+            </div>
+        </div>
+        <div class="mobile-menu">
+            <nav class="hendre_menu">
+                <ul class="nav_scroll">
+                    <li><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('about') }}">About</a></li>
+                    <li><a href="{{ route('our_service') }}">Our Service</a></li>
+                    <li><a href="{{ route('service_details') }}">Service Details</a></li>
+                    <li><a href="{{ route('pricing') }}">Pricing</a></li>
+                    <li><a href="{{ route('our_team') }}">Our Team</a></li>
+                    <li><a href="{{ route('project') }}">Projects</a></li>
+                    <li><a href="{{ route('contact') }}">Contact</a></li>
+                    <li><a href="{{ route('our_blog') }}">Blog</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
