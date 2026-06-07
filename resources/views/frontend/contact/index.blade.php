@@ -27,55 +27,211 @@
 			</div>
 		</div>
 	</div>
+	<style>
+		/* CARD */
+		.contact-modern-card {
+			background: #ffffff;
+			padding: 35px;
+			border-radius: 12px;
+			box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+			border-left: 4px solid #D7AB79; /* accent color */
+			transition: 0.3s ease;
+		}
 
+		.contact-modern-card:hover {
+			transform: translateY(-5px);
+			box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+		}
+
+		/* TITLE */
+		.contact-title h3 {
+			font-size: 24px;
+			font-weight: 700;
+			margin-bottom: 10px;
+			color: #222;
+		}
+
+		.contact-title p {
+			font-size: 14px;
+			color: #666;
+			margin-bottom: 25px;
+		}
+
+		/* ITEM */
+		.contact-item {
+			display: flex;
+			align-items: center;
+			margin-bottom: 18px;
+			padding: 10px 0;
+			border-bottom: 1px solid #f1f1f1;
+			transition: 0.3s;
+		}
+
+		.contact-item:last-child {
+			border-bottom: none;
+		}
+
+		/* ICON */
+		.contact-item .icon {
+			width: 45px;
+			height: 45px;
+			background: #D7AB79;
+			color: #fff;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			border-radius: 50%;
+			font-size: 18px;
+			margin-right: 15px;
+			flex-shrink: 0;
+		}
+
+		/* TEXT */
+		.contact-item .text span {
+			display: block;
+			font-size: 13px;
+			color: #999;
+		}
+
+		.contact-item .text p {
+			margin: 0;
+			font-size: 15px;
+			color: #333;
+			font-weight: 500;
+		}
+
+		/* HOVER EFFECT */
+		.contact-item:hover .icon {
+			background: #222;
+		}
+	</style>
 	<div class="contact-area-inner upper">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-6">
-					<div class="single-contact-box upper wow fadeInRight">
-						<div class="section-title upper">
-							<div class="sub-title">
-								<h2>Collaborate with Our <br> Support Team"</h2>
-							</div>
-						</div>
-						<div class="contact_from_box">
-							<form action="#" method="POST" id="dreamit-form">
-								<div class="row">
-									<div class="col-lg-6">
-										<div class="form_box">
-											<input type="text" name="name" placeholder="Full Name">
-										</div>
-									</div>
-									<div class="col-lg-6">
-										<div class="form_box">
-											<input type="email" name="email" placeholder="Your Email">
-										</div>
-									</div>
-									<div class="col-lg-12">
-										<div class="form_box">
-											<textarea name="message" id="message" cols="30" rows="10"
-											placeholder="Message"></textarea>
-										</div>
-										<div class="quote_button">
-											<button class="btn" type="submit">SUBMIT NOW</button>
-										</div>
+	<div class="container">
+		<div class="row align-items-start">
+
+			<!-- LEFT FORM -->
+			<div class="col-lg-6 col-md-12">
+				<div class="single-contact-box upper wow fadeInRight">
+
+					<div class="contact_from_box">
+						<form action="#" method="POST" id="dreamit-form">
+							<div class="row">
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="name" placeholder="First Name">
 									</div>
 								</div>
-							</form>
-							<div id="status"></div>
-						</div>
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="first_name" placeholder="Last Name">
+									</div>
+								</div>
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="last_name" placeholder="Mobile Number">
+									</div>
+								</div>
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="email_address" placeholder="Email Address">
+									</div>
+								</div>
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="city" placeholder="City">
+									</div>
+								</div>
+
+								<div class="col-lg-6 col-md-12">
+									<div class="form_box">
+										<input type="text" name="country" placeholder="Country">
+									</div>
+								</div>
+
+								<div class="col-lg-12">
+									<div class="form_box">
+										<textarea name="message" cols="76" rows="8" placeholder="Message"></textarea>
+									</div>
+
+									<div class="quote_button">
+										<button class="btn" type="submit">SUBMIT NOW</button>
+									</div>
+								</div>
+
+							</div>
+						</form>
 					</div>
+
 				</div>
-				<div class="col-lg-6">
-					<div class="single-contact-box wow fadeInLeft">
-						<div class="single-contact-thumb">
-							<img src="assets/images/resource/cont-ri.html" alt="">
-						</div>
+			</div>
+
+			<div class="col-lg-6 col-md-12">
+				<div class="contact-modern-card">
+
+					<!-- TITLE -->
+					<div class="contact-title">
+						<h3>Get In Touch</h3>
+						<p>We’re here to help you. Contact us anytime through the details below.</p>
 					</div>
+
+					<!-- ITEMS -->
+					<div class="contact-items">
+
+					   <div class="contact-item">
+							<div class="icon">
+								<i class="fa fa-user me-1"></i>
+							</div>
+							<div class="text">
+								<span>Name | Designation</span>
+								<p>
+									Mr. Taufeek Khan | General Manager <br>
+								</p>
+							</div>
+						</div>
+
+						<div class="contact-item">
+							<div class="icon">
+								<i class="bi bi-telephone"></i>
+							</div>
+							<div class="text">
+								<span>Call Us</span>
+								<p>+971 54 785 9111</p>
+							</div>
+						</div>
+
+						<div class="contact-item">
+							<div class="icon">
+								<i class="bi bi-whatsapp"></i>
+							</div>
+							<div class="text">
+								<span>WhatsApp</span>
+								<p>+971 50 544 6944</p>
+							</div>
+						</div>
+
+						<div class="contact-item">
+							<div class="icon">
+								<i class="bi bi-envelope"></i>
+							</div>
+							<div class="text">
+								<span>Email</span>
+								<p>zmtdecor@gmail.com</p>
+							</div>
+						</div>
+
+					</div>
+
 				</div>
 			</div>
 		</div>
-	</div> <br>
+	</div>
+</div>
+<br>
 	
 	<div class="map-section">
 		<div class="container">

@@ -21,8 +21,9 @@
 							<div class="single-slider">
 								<div class="slider-content">
 									<div class="slider-title">
-										<h4>BUILDING IN DUBAI - UAE</h4>
-										<h1>Build Your <span>Vision</span> <br> Creating Reality <br> New Design</h1>
+										<h4>Welcome to ZMT Technical Services L.L.C.
+  										</h4>
+										<h1>Your Trusted Partner for Interior <span>Fit-Out &</span> Technical Solutions</h1>
 									</div>
 									<div class="slider-button">
 										<a href="#">View Details </a>
@@ -65,8 +66,9 @@
 							<div class="single-slider">
 								<div class="slider-content">
 									<div class="slider-title">
-										<h4>BUILDING IN DUBAI - UAE</h4>
-										<h1>Build Your <span>Vision</span> <br> Creating Reality <br> New Design</h1>
+										<h4>Welcome to ZMT Technical Services L.L.C.
+  										</h4>
+										<h1>Your Trusted Partner for Interior <span>Fit-Out &</span> Technical Solutions</h1>
 									</div>
 									<div class="slider-button">
 										<a href="#">View Details </a>

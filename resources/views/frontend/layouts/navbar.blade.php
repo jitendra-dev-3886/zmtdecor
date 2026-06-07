@@ -29,13 +29,13 @@
 									<li><a href="{{ route('service_details') }}">Service Details</a></li>
 								</ul>
 							</li>
-							<li><a href="#">Pages</a>
+							<!-- <li><a href="#">Pages</a>
 								<ul class="sub-menu">
 									<li><a href="{{ route('about') }}">About Us</a></li>
 									<li><a href="{{ route('pricing') }}">Pricing</a></li>
 									<li><a href="{{ route('our_team') }}">Our Team</a></li>
 								</ul>
-							</li>
+							</li> -->
 							<li><a href="{{ route('project') }}">Projects </a>
 								<!-- <ul class="sub-menu">
 									<li><a href="{{ route('project') }}">Project</a></li>
@@ -60,7 +60,7 @@
 							</div>
 						</div>
 						<div class="header-button two">
-							<a href="#">Get a Quote <i class="bi bi-arrow-right-short"></i></a>
+							<a href="{{ route('contact') }}">Get a Quote <i class="bi bi-arrow-right-short"></i></a>
 						</div>
 						<div class="sidebar-btn style_two">
 							<div class="nav-btn navSidebar-button style_two"><span><i class="bi bi-filter-left"></i></span></div>							
@@ -86,11 +86,11 @@
             <nav class="hendre_menu">
                 <ul class="nav_scroll">
                     <li><a href="{{ route('home') }}">Home</a></li>
-                    <li><a href="{{ route('about') }}">About</a></li>
+                    <!-- <li><a href="{{ route('about') }}">About</a></li> -->
                     <li><a href="{{ route('our_service') }}">Our Service</a></li>
                     <li><a href="{{ route('service_details') }}">Service Details</a></li>
-                    <li><a href="{{ route('pricing') }}">Pricing</a></li>
-                    <li><a href="{{ route('our_team') }}">Our Team</a></li>
+                    <!-- <li><a href="{{ route('pricing') }}">Pricing</a></li> -->
+                    <!-- <li><a href="{{ route('our_team') }}">Our Team</a></li> -->
                     <li><a href="{{ route('project') }}">Projects</a></li>
                     <li><a href="{{ route('contact') }}">Contact</a></li>
                     <li><a href="{{ route('our_blog') }}">Blog</a></li>

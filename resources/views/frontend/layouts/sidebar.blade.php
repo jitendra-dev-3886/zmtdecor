@@ -14,16 +14,24 @@
                             <a href="#"><img src="{{ asset('assets/images/zmtimg.png') }}" alt="logo" height="100px" width="100px"></a>
                         </div>
                         <div class="contact-info">
-                            <h2>Address Details</h2>
+                            <h2>Contact Details</h2>
+                            <div class="text">
+                            <i class="fa fa-user me-1"></i>
+                            <span>Name | Designation</span>
+                            <p>
+                                Mr. Taufeek Khan | General Manager <br>
+                            </p>
+                        </div>
                             <ul class="list-style-one">
-                                <li>
-                                    <i class="bi bi-geo-alt"></i>Ibrahim Hussain Ali Building, <br> Office 101 Muteena, P.O Box: 514029, Dubai - UAE</li>
-                                <li><i class="bi bi-telephone"></i>+971 54 785 9111</li>
                                 <li>
                                     <i class="bi bi-whatsapp"></i>
                                         +971 50 544 6944
                                     </li>
+                                <li><i class="bi bi-telephone"></i>+971 54 785 9111</li>
+
                                 <li><i class="bi bi-envelope"></i>zmtdecor@gmail.com</li>
+                                 <li>
+                                    <i class="bi bi-geo-alt"></i>Ibrahim Hussain Ali Building, <br> Office 101 Muteena, P.O Box: 514029, Dubai - UAE</li>
                                 <li><i class="bi bi-clock"></i>Week Days: 09.00 to 18.00</li>
                             </ul>
                         </div>

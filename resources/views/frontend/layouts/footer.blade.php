@@ -38,7 +38,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="widgets-company-info-box wow fadeInUp">
                         <div class="elaction-logo">
-                            <a class="logo_thumb" href="index-2.html" title="elaction">
+                            <a class="#" title="elaction">
                                 <img src="{{ asset('assets/images/zmtimg.png') }}" alt="logo" height="100px" width="100px">
                             </a>
                         </div>
@@ -63,7 +63,7 @@
                                 <h3>Newsletter</h3>
                             </div>
                             <div class="subscribes-box">
-                                <form action="https://formspree.io/f/myyleorq" method="POST" id="dreamit-form">
+                                <form action="#" method="get" id="dreamit-form">
                                     <div class="subscribe_form-title">
                                         <h3>Subscribe Our Newsletter</h3>
                                     </div>
@@ -91,7 +91,7 @@
             <div class="row mg-tp align-items-center">
                 <div class="col-lg-12">
                     <div class="copy-rights">
-                        <h4>© Copyright ZMT DECOR 2026. All Rights Reserved.</h4>
+                        <h4>© Copyright ZMT TECHNICAL SERVICES L.L.C. 2026. All Rights Reserved.</h4>
                     </div>
                     <div class="footer-shap bounce-animate3">
                         <img src="assets/images/resource/counter-shape.png" alt="">
