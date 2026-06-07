@@ -92,7 +92,7 @@
 							<h1>About Us</h1>
 						</div>
 						<div class="sub-title">
-							<h2>Discover Arcke’s <span>Story</span></h2>
+							<h2>Discover ZMT’s <span>Story</span></h2>
 						</div>
 					</div>
 					<div class="about-shape dance">
@@ -273,7 +273,7 @@
 							<h1>ENGINEERS</h1>
 						</div>
 						<div class="sub-title">
-							<h2>Arcke’s Expert <span>Engineers</span></h2>
+							<h2>ZMT’s Expert <span>Engineers</span></h2>
 						</div>
 					</div>
 					<div class="team-shap bounce-animate3">
