@@ -76,10 +76,10 @@
 		<div class="mobile-menu">
 			<nav class="hendre_menu">
 				<ul class="nav_scroll">
-					<li><a href="#">Home </a>
-								 <ul class="sub-menu">
-									<li><a href="{{ route('home') }}">Home </a>
+					<li><a href="{{ route('home') }}">Home </a>
 								 <!-- <ul class="sub-menu">
+									<li><a href="{{ route('home') }}">Home </a>
+								 <ul class="sub-menu">
 									<li><a href="left-sidebar.html">Left Sidebar</a></li>
 								</ul>  -->
 							</li>

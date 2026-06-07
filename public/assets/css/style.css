@@ -1069,12 +1069,12 @@ ul.social-box li a:hover {
 
 
 .breadcumb-area {
-    background: url(../assets/images/breadcumb.jpg);
+    background-image: url("../images/resource/breadcumb.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     padding: 100px 0 110px;
-    height: 00px;
+    height: 450px;
     position: relative;
     z-index: 1;
 }
