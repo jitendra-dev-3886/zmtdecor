@@ -81,9 +81,10 @@
                 </div>
             </div>
             
-           <a href="https://wa.me/+971 50 544 6944?text=Hello%20ZMT%20Technical%20Services,%20I%20would%20like%20to%20know%20more%20about%20your%20services."
+            <a href="https://wa.me/971505446944?text=Hello%20ZMT%20Technical%20Services%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services."
                class="whatsapp-btn"
-               target="_blank">
+               target="_blank"
+               rel="noopener noreferrer">
                 <i class="bi bi-whatsapp"></i>
             </a>
                         

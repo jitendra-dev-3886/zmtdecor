@@ -73,6 +73,13 @@
 
 	<!--  Mobile Menu Area -->
 	<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
+		<div class="mobile-logo text-center mb-3">
+			<div class="logo">
+				<a class="logo_img" href="{{ route('home') }}" title="hendre">
+					<img src="{{ asset('assets/images/zmtimg.png') }}" alt="ZMT Logo" class="mobile_logo_img">
+				</a>
+			</div>
+		</div>
 		<div class="mobile-menu">
 			<nav class="hendre_menu">
 				<ul class="nav_scroll">

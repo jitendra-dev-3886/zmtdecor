@@ -677,6 +677,46 @@ ul.sub-menu li:hover a span{
     display: inherit;
 }
 
+.mobile-logo .mobile_logo_img {
+    max-width: 140px;
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 991px) {
+    .logo_img,
+    .main_sticky,
+    .mobile-logo .mobile_logo_img {
+        max-width: 140px;
+        width: 100%;
+        height: auto;
+    }
+    .mobile-logo {
+        padding: 10px 0;
+    }
+    .mobile-menu-area {
+        background: #fff;
+    }
+}
+
+@media (max-width: 767px) {
+    .whatsapp-btn {
+        width: 50px;
+        height: 50px;
+        right: 15px;
+        bottom: 90px;
+        font-size: 24px;
+    }
+}
+
+.mean-container .mean-bar::before {
+    content: "" !important;
+}
+
+.mean-container .mean-bar {
+    background: transparent;
+}
+
 .sticky .hendre_menu li a {
     color: #fff;
 }
