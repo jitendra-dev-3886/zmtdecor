@@ -14,8 +14,7 @@ class ProjectController extends Controller
 
     public function moreDetails()
     {
-        $path = public_path('pdf/ZMT-f1.pdf');
-
+        $path = public_path('pdf/ZMT--br.pdf');
         return response()->file($path);
     }
 }

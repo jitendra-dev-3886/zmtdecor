@@ -27,6 +27,12 @@
 								<ul class="sub-menu">
 									<li><a href="{{ route('our_service') }}">Our Service</a></li>
 									<li><a href="{{ route('service_details') }}">Service Details</a></li>
+									<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
+
+									<!-- <ul class="sub-menu">
+									<li><a href="{{ route('project') }}">Project</a></li>
+									<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
+								</ul> -->
 								</ul>
 							</li>
 							<!-- <li><a href="#">Pages</a>

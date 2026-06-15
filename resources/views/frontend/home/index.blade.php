@@ -23,7 +23,7 @@
 									<div class="slider-title">
 										<h4>Welcome to ZMT Technical Services L.L.C.
   										</h4>
-										<h1>Your Trusted Partner for Interior <span>Fit-Out &</span> Technical Solutions</h1>
+										<h1>Expert Gypsum, <span> False Ceiling</span>, Cladding & <span> Partition Services</span></h1>
 									</div>
 									<div class="slider-button">
 										<a href="#">View Details </a>
@@ -68,7 +68,7 @@
 									<div class="slider-title">
 										<h4>Welcome to ZMT Technical Services L.L.C.
   										</h4>
-										<h1>Your Trusted Partner for Interior <span>Fit-Out &</span> Technical Solutions</h1>
+										<h1>Expert Gypsum, <span> False Ceiling</span>, Cladding & <span> Partition Services</span></h1>
 									</div>
 									<div class="slider-button">
 										<a href="#">View Details </a>
@@ -124,7 +124,7 @@
 					<div class="single-feature-box wow fadeInUp">
 						<div class="feature-content">
 							<h4>02</h4>
-							<h3>Gypsum</h3>
+							<h3>Gypsum, False Ceiling, Cladding & Partition Work</h3>
 							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
 						</div>
 						<div class="feature-button">
@@ -210,7 +210,11 @@
 					</div>				
 					<div class="content-box">
 						<h6 class="title"><span>False Ceiling</span></h6>
-					</div>				
+					</div>
+					<div class="content-box">
+						<h6 class="title"><span>Cladding</span></h6>
+					</div>		
+
 				</div>
 				<div class="marquee-block"> 
 					<!-- content-box -->
@@ -223,7 +227,7 @@
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
-						<h6 class="title"><span> Tiling</span></h6>
+						<h6 class="title"><span> Partition</span></h6>
 					</div>
 					<!-- content-box -->
 					<div class="content-box">
@@ -232,10 +236,10 @@
 					<!-- content-box -->
 					<div class="content-box">
 						<h6 class="title"><span>Painting</span></h6>
-					</div>				
+					</div>			
 					<div class="content-box">
 						<h6 class="title"><span>False Ceiling</span></h6>
-					</div>				
+					</div>			
 				</div>
 		  	</div>
 		</div>
@@ -268,7 +272,7 @@
 							<img src="assets/images/about/about-one.png" alt="">
 						</div>
 						<div class="about-button">
-							<a href="{{ route('about') }}">About Us</a>
+							<a href="{{ route('about') }}">About Us111</a>
 						</div>
 					</div>
 				</div>
@@ -368,6 +372,7 @@
 			</div>
 		</div>
 	</div>
+	
 
 	<div class="counter-area one upper">
 		<div class="container">
