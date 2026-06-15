@@ -272,7 +272,7 @@
 							<img src="assets/images/about/about-one.png" alt="">
 						</div>
 						<div class="about-button">
-							<a href="{{ route('about') }}">About Us111</a>
+							<a href="{{ route('about') }}">About Us</a>
 						</div>
 					</div>
 				</div>

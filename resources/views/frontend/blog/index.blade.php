@@ -34,11 +34,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInLeft">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-1.jpg" alt="">
+							<img src="assets/images/blog/parti.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Top 10 Modern Building Design in Califronia, USA</a></h3>
+							<h4>Wall Partition</h4>
+							<h3><a href="blog-details.html">Creative Wall Partition Ideas for Open-Plan Living Spaces in Dubai</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>
@@ -48,11 +48,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInUp">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-2.jpg" alt="">
+							<img src="assets/images/blog/false_ceiling.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Best Equipment for Architecture and Interior Design</a></h3>
+							<h4>Gypsum False Ceilings</h4>
+							<h3><a href="blog-details.html">Luxurious Living: Use Of Gypsum False Ceilings in High-End Homes</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>
@@ -62,11 +62,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInRight">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-3.jpg" alt="">
+							<img src="assets/images/blog/interior_decoration.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">5 Awesome and Beautiful House in Dhaka, Bangladesh</a></h3>
+							<h4>False Ceilings</h4>
+							<h3><a href="blog-details.html">False Ceilings Are Vital in Hotel Interior Design</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>
@@ -76,11 +76,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInLeft">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-1.jpg" alt="">
+							<img src="assets/images/blog/first.png" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Top 10 Modern Building Design in Califronia, USA</a></h3>
+							<h4>Partition Work</h4>
+							<h3><a href="blog-details.html">Gypsum vs. Drywall Partition – What’s the Difference & Which to Pick</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>
@@ -90,11 +90,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInUp">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-2.jpg" alt="">
+							<img src="assets/images/blog/paint.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">Best Equipment for Architecture and Interior Design</a></h3>
+							<h4>Paint</h4>
+							<h3><a href="blog-details.html">Paint Choices Impact Mood and Atmosphere.</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>
@@ -104,11 +104,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box upper wow fadeInRight">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-3.jpg" alt="">
+							<img src="assets/images/blog/partition_work.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="blog-details.html">5 Awesome and Beautiful House in Dhaka, Bangladesh</a></h3>
+							<h4>Gypsum Partitions</h4>
+							<h3><a href="blog-details.html">Gypsum partitions are widely used in the construction industry.</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="blog-details.html">View Details</a>

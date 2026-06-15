@@ -67,8 +67,8 @@
 							<img src="assets/images/service/inner-icon-2.html" alt="">
 						</div>
 						<div class="inner-service-title">
-							<h3>Gypsum</h3>
-							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
+							<h3>Gypsum, False Ceiling, Cladding & Partition Work</h3>
+							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines and  flexibility.</p>
 						</div>
 						<div class="inner-service-button">
 							<a href="#">View Details</a>
