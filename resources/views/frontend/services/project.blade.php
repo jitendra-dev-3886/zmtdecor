@@ -3,6 +3,18 @@
 @section('title', 'Projects')
 
 @section('content')
+<style>
+.portfolio-minimal-area .case-study-thumb2 {
+    height: 280px;
+    overflow: hidden;
+}
+.portfolio-minimal-area .case-study-thumb2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+</style>
 	
 	<!-- loder -->
 	 <div class="loader-wrapper">
@@ -105,7 +117,7 @@
 				<div class="col-lg-4 col-md-6 grid-item physics english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/alsafa.jpg') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_189.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -125,7 +137,7 @@
 				<div class="col-lg-4 col-md-6 grid-item physics chemistry math">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_190.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -145,7 +157,7 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_192.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -165,7 +177,7 @@
 				<div class="col-lg-4 col-md-6 grid-item math english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_184.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -185,7 +197,7 @@
 				<div class="col-lg-4 col-md-6 grid-item math physics">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_185.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -205,7 +217,7 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry physics">
 					<div class="case-study-single-box wow fadeInUp ">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_191.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -225,7 +237,7 @@
 				<div class="col-lg-4 col-md-6 grid-item chemistry english">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_186.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -245,7 +257,7 @@
 				<div class="col-lg-4 col-md-6 grid-item math physics">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_187.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">
@@ -265,7 +277,7 @@
 				<div class="col-lg-4 col-md-6 grid-item physics chemistry math">
 					<div class="case-study-single-box wow fadeInUp">
 						<div class="case-study-thumb2">
-							<img src="{{ asset('assets/images/project/villa2.png') }}" alt="">
+							<img src="{{ asset('assets/images/project/image_188.png') }}" alt="">
 						</div>
 						<div class="case-study-contents">
 							<div class="case-text">

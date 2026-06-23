@@ -473,11 +473,11 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end Dramatically administrate inexpensive</p>
+											<p>Transform spaces with interior decoration that blends design, color, texture, and lighting to create functional, stylish, and visually appealing environments.</p>
 											<div class="icon-list">
 												<ul>
-													<li><i class="bi bi-check-lg"></i> Building Plans Design</li>
-													<li><i class="bi bi-check-lg"></i> Soil Testing and Solderings</li>
+													<li><i class="bi bi-check-lg"></i>Gypsum</li>
+													<li><i class="bi bi-check-lg"></i>Cladding</li>
 												</ul>
 											</div>
 										</div>
@@ -515,11 +515,11 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end Dramatically administrate inexpensive</p>
+											<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
 											<div class="icon-list">
 												<ul>
-													<li><i class="bi bi-check-lg"></i> Building Plans Design</li>
-													<li><i class="bi bi-check-lg"></i> Soil Testing and Solderings</li>
+													<li><i class="bi bi-check-lg"></i> False Ceiling</li>
+													<li><i class="bi bi-check-lg"></i> Partition</li>
 												</ul>
 											</div>
 										</div>
@@ -557,11 +557,11 @@
 								<div class="service-inner-box">
 									<div class="service-content">
 										<div class="service-description">
-											<p>Rapidiously evolve pandemic experiences and end-to-end Dramatically administrate inexpensive</p>
+											<p>Enhance interiors with a sleek false ceiling that improves lighting, hides utilities, and delivers a modern, premium architectural finish.</p>
 											<div class="icon-list">
 												<ul>
-													<li><i class="bi bi-check-lg"></i> Building Plans Design</li>
-													<li><i class="bi bi-check-lg"></i> Soil Testing and Solderings</li>
+													<li><i class="bi bi-check-lg"></i> Marble</li>
+													<li><i class="bi bi-check-lg"></i> Painting</li>
 												</ul>
 											</div>
 										</div>
@@ -723,7 +723,7 @@
 							<h1>ENGINEERS</h1>
 						</div>
 						<div class="sub-title">
-							<h2>ZMT’s Expert <span>Engineers</span></h2>
+							<h2>ZMT’s Expert <span>Teams</span></h2>
 						</div>
 					</div>
 					<div class="team-shap bounce-animate3">
@@ -757,11 +757,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-team-box wow fadeInUp">
 						<div class="team-thumb">
-							<img src="assets/images/team/team-2.jpg" alt="">
+							<img src="assets/images/team/team-21.png" alt="">
 						</div>
 						<div class="team-content">
-							<h3>Moris Barbar</h3>
-							<span>engineer</span>
+							<h3>Mr. Taufeek Khan</h3>
+							<span>General Manager</span>
 							<div class="team-icon-list">
 								<ul>
 									<li><a href="#"> <i class="fab fa-facebook-f"></i></a></li>
@@ -919,11 +919,12 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box wow fadeInLeft">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-1.jpg" alt="">
+
+							<img src="assets/images/blog/false_ceiling.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="#">Top 10 Modern Building Design in Califronia, UAE</a></h3>
+							<h4>Gypsum False Ceilings</h4>
+							<h3><a href="#">Luxurious Living: Use Of Gypsum False Ceilings in High-End Homes</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="#">View Details</a>
@@ -933,11 +934,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box wow fadeInUp">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-2.jpg" alt="">
+							<img src="assets/images/blog/interior_decoration.jpg" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="#">Best Equipment for Architecture and Interior Design</a></h3>
+							<h4>False Ceilings</h4>
+							<h3><a href="#">False Ceilings Are Vital in Hotel Interior Design</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="#">View Details</a>
@@ -947,11 +948,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-blog-box wow fadeInRight">
 						<div class="blog-thumb">
-							<img src="assets/images/blog/blog-3.jpg" alt="">
+							<img src="assets/images/blog/first.png" alt="">
 						</div>
 						<div class="blog-title">
-							<h4>August 10, 2024 <span>Interior</span></h4>
-							<h3><a href="#">5 Awesome and Beautiful House in Dhaka, Bangladesh</a></h3>
+							<h4>Partition Work</h4>
+							<h3><a href="#">Gypsum vs. Drywall Partition – What’s the Difference & Which to Pick</a></h3>
 						</div>
 						<div class="blog-button">
 							<a href="#">View Details</a>

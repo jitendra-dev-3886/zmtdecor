@@ -16,6 +16,7 @@
                     <ul>
                         <li><i class="bi bi-telephone"></i> +971 54 785 9111</li>
                         <li><i class="bi bi-whatsapp"></i> +971 50 544 6944</li>
+                        <li><i class="bi bi-globe"></i> www.zmtdecor.com</li>
                         <li><i class="bi bi-envelope"></i> zmtdecor@gmail.com</li>
                         <li>
                             <i class="bi bi-geo-alt"></i>
