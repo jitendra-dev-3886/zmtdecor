@@ -189,7 +189,7 @@
 							<div class="text">
 								<span>Name | Designation</span>
 								<p>
-									Mr. Taufeek Khan | General Manager <br>
+									Mr. Taufeeq Khan | General Manager <br>
 								</p>
 							</div>
 						</div>

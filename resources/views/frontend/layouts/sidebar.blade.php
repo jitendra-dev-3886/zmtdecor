@@ -19,7 +19,7 @@
                             <i class="fa fa-user me-1"></i>
                             <span>Name | Designation</span>
                             <p>
-                                Mr. Taufeek Khan | General Manager <br>
+                                Mr. Taufeeq Khan | General Manager <br>
                             </p>
                         </div>
                             <ul class="list-style-one">

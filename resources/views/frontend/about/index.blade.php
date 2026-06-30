@@ -285,7 +285,7 @@
 							<h1>ENGINEERS</h1>
 						</div>
 						<div class="sub-title">
-							<h2>ZMT’s Expert <span>Engineers</span></h2>
+							<h2>ZMT’s Expert <span>Teams</span></h2>
 						</div>
 					</div>
 					<div class="team-shap bounce-animate3">
@@ -322,7 +322,7 @@
 							<img src="assets/images/team/team-21.png" alt="">
 						</div>
 						<div class="team-content">
-							<h3>Mr. Taufeek Khan</h3>
+							<h3>Mr. Taufeeq Khan</h3>
 							<span>General Manager</span>
 							<div class="team-icon-list">
 								<ul>

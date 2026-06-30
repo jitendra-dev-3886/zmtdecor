@@ -760,7 +760,7 @@
 							<img src="assets/images/team/team-21.png" alt="">
 						</div>
 						<div class="team-content">
-							<h3>Mr. Taufeek Khan</h3>
+							<h3>Mr. Taufeeq Khan</h3>
 							<span>General Manager</span>
 							<div class="team-icon-list">
 								<ul>
