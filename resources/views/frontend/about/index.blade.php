@@ -47,8 +47,8 @@
 					<div class="single-feature-box wow fadeInLeft">
 						<div class="feature-content">
 							<h4>01</h4>
-							<h3>Architecture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>Gypsum, False Ceiling, Cladding & Partition Work</h3>
+							<p>Create smooth, lightweight gypsum finishes that enable modern false ceiling and wall designs with clean lines, flexibility, and a premium interior look.</p>
 						</div>
 						<div class="feature-button">
 							<a href="#">View Details</a>
@@ -59,8 +59,8 @@
 					<div class="single-feature-box wow fadeInUp">
 						<div class="feature-content">
 							<h4>02</h4>
-							<h3>Interior Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>Interior Decoration</h3>
+							<p>Transform spaces with interior decoration that blends design, color, texture, and lighting to create functional, stylish, and visually appealing environments.</p>
 						</div>
 						<div class="feature-button">
 							<a href="#">View Details</a>
@@ -71,8 +71,8 @@
 					<div class="single-feature-box wow fadeInRight">
 						<div class="feature-content">
 							<h4>03</h4>
-							<h3>Furniture Design</h3>
-							<p>Conveniently streamline synergistic markets multidisciplinary products. Authoritatively wire bandwidth adaptive</p>
+							<h3>False Ceiling</h3>
+							<p>Enhance interiors with a sleek false ceiling that improves lighting, hides utilities, and delivers a modern, premium architectural finish.</p>
 						</div>
 						<div class="feature-button">
 							<a href="#">View Details</a>
@@ -107,7 +107,7 @@
 				<div class="col-lg-6">
 					<div class="single-about-left wow fadeInLeft">
 						<div class="about-thumb">
-							<img src="assets/images/about/about-one.png" alt="">
+							<img src="assets/images/about/about-one1.jpeg" alt="">
 						</div>
 						<div class="about-button">
 							<a href="#">About Us</a>
@@ -231,7 +231,7 @@
 					<div class="counter-single-item-inner upper">
 						<div class="counter-content">
 							<div class="counter-text">
-								<h1><span class="counter">70</span></h1>
+								<h1><span class="counter">02</span></h1>
 								<span></span>
 								<div class="counter-title">
 									<h4>ENGINEERS</h4>
@@ -319,11 +319,11 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="single-team-box wow fadeInUp">
 						<div class="team-thumb">
-							<img src="assets/images/team/team-2.jpg" alt="">
+							<img src="assets/images/team/team-21.png" alt="">
 						</div>
 						<div class="team-content">
-							<h3>Moris Barbar</h3>
-							<span>engineer</span>
+							<h3>Mr. Taufeek Khan</h3>
+							<span>General Manager</span>
 							<div class="team-icon-list">
 								<ul>
 									<li><a href="#"> <i class="fab fa-facebook-f"></i></a></li>

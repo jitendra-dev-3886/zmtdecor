@@ -269,7 +269,7 @@
 				<div class="col-lg-6">
 					<div class="single-about-left wow fadeInLeft">
 						<div class="about-thumb">
-							<img src="assets/images/about/about-one.png" alt="">
+							<img src="assets/images/about/about-one1.jpeg" alt="" height="50%">
 						</div>
 						<div class="about-button">
 							<a href="{{ route('about') }}">About Us</a>
@@ -394,7 +394,7 @@
 					<div class="counter-single-item-inner upper">
 						<div class="counter-content">
 							<div class="counter-text">
-								<h1><span class="counter">70</span></h1>
+								<h1><span class="counter">02</span></h1>
 								<span></span>
 								<div class="counter-title">
 									<h4>ENGINEERS</h4>
@@ -608,7 +608,7 @@
 				<div class="col-lg-8">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-1.jpg" alt="">
+							<img src="assets/images/portfolio/1.jpeg" alt="">
 						</div>
 						<div class="project-content">
 							<h4>ARCHITECTURE</h4>
@@ -624,14 +624,14 @@
 						<div class="col-lg-12">
 							<div class="single-project-box">
 								<div class="project-thumb upper">
-									<img src="assets/images/portfolio/project-2.jpg" alt="">
+									<img src="assets/images/portfolio/2.jpeg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-12">
 							<div class="single-project-box">
 								<div class="project-thumb upper">
-									<img src="assets/images/portfolio/project-3.jpg" alt="">
+									<img src="assets/images/portfolio/3.jpeg" alt="">
 								</div>
 							</div>
 						</div>
@@ -640,7 +640,7 @@
 				<div class="col-lg-4">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-4.jpg" alt="">
+							<img src="assets/images/portfolio/4.jpeg" alt="">
 						</div>
 						<div class="project-content style-one">
 							<h4>ARCHITECTURE</h4>
@@ -654,7 +654,7 @@
 				<div class="col-lg-8">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-5.jpg" alt="">
+							<img src="assets/images/portfolio/5.jpeg" alt="">
 						</div>
 						<div class="project-content">
 							<h4>ARCHITECTURE</h4>
@@ -668,7 +668,7 @@
 				<div class="col-lg-4">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-6.jpg" alt="">
+							<img src="assets/images/portfolio/6.jpeg" alt="">
 						</div>
 						<div class="project-content style-one">
 							<h4>ARCHITECTURE</h4>
@@ -682,7 +682,7 @@
 				<div class="col-lg-4">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-7.jpg" alt="">
+							<img src="assets/images/portfolio/7.jpeg" alt="">
 						</div>
 						<div class="project-content style-one">
 							<h4>ARCHITECTURE</h4>
@@ -696,7 +696,7 @@
 				<div class="col-lg-4">
 					<div class="single-project-box">
 						<div class="project-thumb">
-							<img src="assets/images/portfolio/project-8.jpg" alt="">
+							<img src="assets/images/portfolio/8.jpeg" alt="">
 						</div>
 						<div class="project-content style-one">
 							<h4>ARCHITECTURE</h4>

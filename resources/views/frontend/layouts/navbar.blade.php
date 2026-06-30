@@ -95,6 +95,8 @@
                     <!-- <li><a href="{{ route('about') }}">About</a></li> -->
                     <li><a href="{{ route('our_service') }}">Our Service</a></li>
                     <li><a href="{{ route('service_details') }}">Service Details</a></li>
+					<li><a href="{{ route('more_details') }}" target="_blank">More Details</a></li>
+
                     <!-- <li><a href="{{ route('pricing') }}">Pricing</a></li> -->
                     <!-- <li><a href="{{ route('our_team') }}">Our Team</a></li> -->
                     <li><a href="{{ route('project') }}">Projects</a></li>

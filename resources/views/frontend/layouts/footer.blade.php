@@ -42,12 +42,12 @@
     </div>
 </div>
             
-            <a href="https://wa.me/971505446944?text=Hello%20ZMT%20Technical%20Services%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services."
-               class="whatsapp-btn"
-               target="_blank"
-               rel="noopener noreferrer">
-                <i class="bi bi-whatsapp"></i>
-            </a>
+            <a href="https://wa.me/971505446944?text=Hello%20ZMT%20Technical%20Services%20L.L.C.%2C%20I%20would%20like%20to%20know%20more%20about%20your%20services."
+                class="whatsapp-btn"
+                target="_blank"
+                rel="noopener noreferrer">
+                    <i class="bi bi-whatsapp"></i>
+                </a>
                         
             <div class="row mg-tp align-items-center">
                 <div class="col-lg-12">
