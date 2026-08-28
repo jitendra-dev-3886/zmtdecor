@@ -220,7 +220,7 @@
 							</div>
 							<div class="text">
 								<span>Email</span>
-								<p>zmtdecor@gmail.com</p>
+								<p>info@zmtdecor.com</p>
 							</div>
 						</div>
 

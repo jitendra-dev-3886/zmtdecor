@@ -31,7 +31,7 @@
 
                                 <li><i class="bi bi-globe"></i> www.zmtdecor.com</li>
 
-                                <li><i class="bi bi-envelope"></i>zmtdecor@gmail.com</li>
+                                <li><i class="bi bi-envelope"></i>info@zmtdecor.com</li>
                                  <li>
                                     <i class="bi bi-geo-alt"></i>Ibrahim Hussain Ali Building, <br> Office 101 Muteena, P.O Box: 514029, Dubai - UAE</li>
                                 <li><i class="bi bi-clock"></i>Week Days: 09.00 to 18.00</li>
